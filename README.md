@@ -2,7 +2,7 @@
 
 Demo buliding and testing a flight ticket deals Flutter app.
 
-Original Design from Dribbble: [here](https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365 "here")
+Original app design from Dribbble: [here](https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365 "here")
 
 ## Screens Shots
 <table style={border:"none"}>
