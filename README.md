@@ -1,16 +1,28 @@
-# flight_tickets_deal_app
+#Flight Tickets Deal Flutter App
 
-A new Flutter project.
+Demo buliding and testing a flight ticket deals Flutter app.
 
-## Getting Started
+Original Design from Dribbble: [here](https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365 "here")
 
-This project is a starting point for a Flutter application.
+## Screens Shots
+<table style={border:"none"}>
+<tr>
+<td>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%201.png" alt="Home Screen/Tap" width="200"/>
+</td>
+<td>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%202.png" alt="Search Screen" width="200"/>
+</td>
+</tr>
 
-A few resources to get you started if this is your first Flutter project:
+<tr>
+<td>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%203.png" alt="Search Screen" width="200"/>
+</td>
+</tr>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+</table>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##Short Demo Video
+[FROM HERE](https://drive.google.com/file/d/1CGZm9ssSaJMvpGxbJMYATzWOyNoCNXGe/view?usp=sharing "here")
+
