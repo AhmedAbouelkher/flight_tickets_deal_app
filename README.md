@@ -8,17 +8,17 @@ Original app design from Dribbble: [here](https://dribbble.com/shots/5662956-Fli
 <table style={border:"none"}>
 
 <td>
-<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%201.png" alt="Home Screen/Tap" width="200"/>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%201.png" alt="Home Screen/Tap" width="300"/>
 </td>
 
 
 <td>
-<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%202.png" alt="Search Screen" width="200"/>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%202.png" alt="Search Screen" width="300"/>
 </td>
 
 
 <td>
-<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%203.png" alt="Search Screen" width="200"/>
+<img src="https://github.com/AhmedAbouelkher/flight_tickets_deal_app/blob/master/screenshots/Screenshot%203.png" alt="Search Screen" width="300"/>
 </td>
 
 
