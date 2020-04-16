@@ -1,10 +1,15 @@
-# Flight Tickets Deal Flutter App
+# Flight Tickets Deal - Flutter App
 
-Demo buliding and testing a flight ticket deals Flutter app.
+This amazing App UI is built on the amazing design of [Kishore](https://dribbble.com/elitepixels) team.
 
-Original app design from Dribbble: [here](https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365 "here")
+- Original UI design: [Here](https://dribbble.com/shots/5662956-Flight-Tickets-Deal-Tracker-App-Day-340-365-Project365 "Original Design")
+- For more Flutter apps: [From Here](https://github.com/AhmedAbouelkher "profile")
+- Live Demo: [From Here](https://drive.google.com/file/d/1CGZm9ssSaJMvpGxbJMYATzWOyNoCNXGe/view?usp=sharing "App Demo")  
 
-## Screens Shots
+## Design
+![orignal design](https://cdn.dribbble.com/users/1615730/screenshots/9338617/media/51112759db8509332c3bac5e490bb1a3.png)
+
+## Implementation
 <table style={border:"none"}>
 
 <td>
@@ -23,7 +28,4 @@ Original app design from Dribbble: [here](https://dribbble.com/shots/5662956-Fli
 
 
 </table>
-
-## Short Demo Video
-[FROM HERE](https://drive.google.com/file/d/1CGZm9ssSaJMvpGxbJMYATzWOyNoCNXGe/view?usp=sharing "here")
 
