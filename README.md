@@ -7,7 +7,7 @@ This amazing App UI is built on the amazing design of [Kishore](https://dribbble
 - Live Demo: [From Here](https://drive.google.com/file/d/1CGZm9ssSaJMvpGxbJMYATzWOyNoCNXGe/view?usp=sharing "App Demo")  
 
 ## Design
-![orignal design](https://cdn.dribbble.com/users/1615730/screenshots/9338617/media/51112759db8509332c3bac5e490bb1a3.png)
+![orignal design](https://cdn.dribbble.com/users/386883/screenshots/5662956/06122018-dribbble_4x.png?compress=1)
 
 ## Implementation
 <table style={border:"none"}>
